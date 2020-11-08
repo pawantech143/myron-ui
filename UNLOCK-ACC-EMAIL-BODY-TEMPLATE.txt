@@ -1,0 +1,16 @@
+
+Hi  {FNAME},{LNAME}:
+</br>
+
+Welcome to IES family,Your registration is almost completed.
+please use below details to unlock your account.</br>
+</br>
+Temporary password : {TEMP-PWD}</br>
+</br>
+
+<a href='http://localhost:9090/loadUnlockAccForm?email={EMAIL}'>
+
+click here to unlock your account</a></br>
+
+Thank you $ Regards,</br>
+IES team.</br>
